@@ -4,7 +4,7 @@ import (
 	"log"
 	"testing"
 
-	"github.com/logictake/charts/io_helper"
+	"github.com/madson/charts/io_helper"
 )
 
 func Test_GetFilesSubstr(t *testing.T) {

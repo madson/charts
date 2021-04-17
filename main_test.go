@@ -4,9 +4,9 @@ import (
 	"errors"
 	"testing"
 
-	"github.com/logictake/charts/csv_helper"
-	"github.com/logictake/charts/io_helper"
-	"github.com/logictake/charts/pie_charts"
+	"github.com/madson/charts/csv_helper"
+	"github.com/madson/charts/io_helper"
+	"github.com/madson/charts/pie_charts"
 )
 
 func Test_pieData(t *testing.T) {

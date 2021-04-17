@@ -4,8 +4,8 @@ import (
 	"fmt"
 	"strconv"
 
-	"github.com/logictake/charts/hash_helper"
-	"github.com/logictake/charts/string_helper"
+	"github.com/madson/charts/hash_helper"
+	"github.com/madson/charts/string_helper"
 
 	"github.com/go-echarts/go-echarts/v2/charts"
 	"github.com/go-echarts/go-echarts/v2/opts"

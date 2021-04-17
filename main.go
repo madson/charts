@@ -11,9 +11,9 @@ import (
 	"strings"
 	"time"
 
-	"github.com/logictake/charts/pie_charts"
+	"github.com/madson/charts/pie_charts"
 
-	"github.com/logictake/charts/csv_helper"
+	"github.com/madson/charts/csv_helper"
 
 	"github.com/fsnotify/fsnotify"
 

@@ -1,4 +1,4 @@
-module github.com/logictake/charts
+module github.com/madson/charts
 
 go 1.16
 
